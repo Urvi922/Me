@@ -30,6 +30,7 @@
   ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/Octave?style=flat&logo=Octave&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/RLanguage-informational?style=flat&logo=RLanguage&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=SQL&logoColor=white&color=blueviolet)
   
 </p>  
 
