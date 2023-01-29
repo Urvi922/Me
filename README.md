@@ -4,7 +4,9 @@
   <img align="center" src="https://media.giphy.com/media/AbuQeC846WKOs/giphy.gif" width="400px">
   
   # About Me : 👩🏻‍💻
-  ##### Recently graduted from Uiversity of Waterloo with Masters in Engineering in Electrical and Computer Engineering. I am passionate about Machine Learning and Data Anaylsis. I have experience of working with Python, R language, Octave languages. Also, gained knowledge on AI/ML algorithms such as CNN, RNN, KNN, K-means, Decision Trees to name a few and to apply that knowledge I have done various projects which can be found in my GitHub Profile. I have gained also knowledge on Data Cleaning and Data Analysis while working on all the projects.In case you want to reach out and connect, this is my <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a> Profile.
+  ##### Recently graduted from Uiversity of Waterloo with Masters in Engineering in Electrical and Computer Engineering. I am passionate about creating new things. I have hands on experience with Python, R language, Octave, HTML, SQL. Also, gained knowledge on AI/ML algorithms such as CNN, RNN, KNN, K-means, Decision Trees to name a few and to apply that knowledge I have done various projects which can be found in my GitHub Profile. I have gained also knowledge on Data Cleaning and Data Analysis while working on all the projects. Currently, learning about web development and working on NodeJS projects.
+  
+  In case you want to reach out and connect, this is my <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a> Profile.
   
 # 🔧 Technologies & Tools
 <p>
