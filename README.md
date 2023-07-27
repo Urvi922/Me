@@ -3,10 +3,8 @@
    ### Hello, I am Urvi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">.
   <img align="center" src="https://i.pinimg.com/originals/f1/52/01/f15201a799b6198018e0399ad12cf08c.gif" width="400px">
   
-  # About Me : 👩🏻‍💻
-  ##### Recently graduted from Uiversity of Waterloo with Masters in Engineering in Electrical and Computer Engineering. I am passionate about creating new things. I have hands on experience with Python, R language, Octave, HTML, SQL. Also, gained knowledge on AI/ML algorithms such as CNN, RNN, KNN, K-means, Decision Trees to name a few and to apply that knowledge I have done various projects which can be found in my GitHub Profile. I have gained also knowledge on Data Cleaning and Data Analysis while working on all the projects. Currently, learning about web development and working on NodeJS projects.
-  
-  In case you want to reach out and connect, this is my <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a> Profile.
+  # About Me: 👩🏻‍💻
+  ##### University of Waterloo Graduate with a Master in Engineering in Electrical and Computer Engineering. Throughout my academic journey, I've had the opportunity to work on various exciting projects that have honed my skills and knowledge in different areas. I have gained valuable experience in Data Cleaning and Data Analysis while working on projects during my graduate studies. Understanding data and extracting meaningful insights excites me, and I believe that data-driven decisions pave the way for innovative solutions. I have a working knowledge of SQL, Python, R Language, Octavo, JavaScript, HTML, and CSS. I have hands-on experience in developing web applications with NodeJS and ExpressJS, and I'm continuously learning and improving my expertise in this domain./n As you browse through my repositories, you'll find a collection of projects showcasing my passion for building and creating new things. Thank you for visiting, and I hope my GitHub journey inspires you to embark on your own exciting projects and innovations. Happy coding! 😊🚀 /n In case you want to reach out and connect, this is my <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a> Profile.
   
 # 🔧 Technologies & Tools
 <p>
