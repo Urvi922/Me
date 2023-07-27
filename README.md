@@ -4,7 +4,7 @@
   <img align="center" src="https://i.pinimg.com/originals/f1/52/01/f15201a799b6198018e0399ad12cf08c.gif" width="400px">
   
   # About Me: 👩🏻‍💻
-  ##### University of Waterloo Graduate with a Master in Engineering in Electrical and Computer Engineering. Throughout my academic journey, I've had the opportunity to work on various exciting projects that have honed my skills and knowledge in different areas. I have gained valuable experience in Data Cleaning and Data Analysis while working on projects during my graduate studies. Understanding data and extracting meaningful insights excites me, and I believe that data-driven decisions pave the way for innovative solutions. I have a working knowledge of SQL, Python, R Language, Octavo, JavaScript, HTML, and CSS. I have hands-on experience in developing web applications with NodeJS and ExpressJS, and I'm continuously learning and improving my expertise in this domain./n As you browse through my repositories, you'll find a collection of projects showcasing my passion for building and creating new things. Thank you for visiting, and I hope my GitHub journey inspires you to embark on your own exciting projects and innovations. Happy coding! 😊🚀 /n In case you want to reach out and connect, this is my <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a> Profile.
+  ##### University of Waterloo Graduate with a Master in Engineering in Electrical and Computer Engineering. Throughout my academic journey, I've had the opportunity to work on various exciting projects that have honed my skills and knowledge in different areas. I have gained valuable experience in Data Cleaning and Data Analysis while working on projects during my graduate studies. Understanding data and extracting meaningful insights excites me, and I believe that data-driven decisions pave the way for innovative solutions. I have a working knowledge of SQL, Python, R Language, Octavo, JavaScript, HTML, and CSS. I have hands-on experience in developing web applications with NodeJS and ExpressJS, and I'm continuously learning and improving my expertise in this domain. As you browse through my repositories, you'll find a collection of projects showcasing my passion for building and creating new things.<br> Thank you for visiting, and I hope my GitHub journey inspires you to embark on your own exciting projects and innovations. Happy coding! 😊🚀 <br> In case you want to reach out and connect, this is my <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a> Profile.
   
 # 🔧 Technologies & Tools
 <p>
@@ -49,11 +49,12 @@
   
 </p>
 
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Urvi922">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvi922&title_color=black&text_color=black&icon_color=black&bg_color=white"/>
-</a>
+</a> -->
 
   
 </div>
