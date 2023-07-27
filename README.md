@@ -4,7 +4,7 @@
   <img align="center" src="https://i.pinimg.com/originals/f1/52/01/f15201a799b6198018e0399ad12cf08c.gif" width="400px">
   
   # About Me: 👩🏻‍💻
-  ##### University of Waterloo Graduate with a Master in Engineering in Electrical and Computer Engineering. Throughout my academic journey, I've had the opportunity to work on various exciting projects that have honed my skills and knowledge in different areas. I have gained valuable experience in Data Cleaning and Data Analysis while working on projects during my graduate studies. Understanding data and extracting meaningful insights excites me, and I believe that data-driven decisions pave the way for innovative solutions. I have a working knowledge of SQL, Python, R Language, Octavo, JavaScript, HTML, and CSS. I have hands-on experience in developing web applications with NodeJS and ExpressJS, and I'm continuously learning and improving my expertise in this domain. As you browse through my repositories, you'll find a collection of projects showcasing my passion for building and creating new things.<br> Thank you for visiting, and I hope my GitHub journey inspires you to embark on your own exciting projects and innovations. Happy coding! 😊🚀 <br> In case you want to reach out and connect, this is my <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a> Profile.
+  ##### University of Waterloo Graduate with a Master in Engineering in Electrical and Computer Engineering. Throughout my academic journey, I've had the opportunity to work on various exciting projects that have honed my skills and knowledge in different areas. I have gained valuable experience in Data Cleaning and Data Analysis while working on projects during my graduate studies. Understanding data and extracting meaningful insights excites me, and I believe that data-driven decisions pave the way for innovative solutions. I have a working knowledge of SQL, Python, R Language, Octavo, JavaScript, HTML, and CSS. I have hands-on experience in developing web applications with NodeJS and ExpressJS, and I'm continuously learning and improving my expertise in this domain. As you browse through my repositories, you'll find a collection of projects showcasing my passion for building and creating new things.<br> Thank you for visiting. Happy coding! 😊🚀 <br> In case you want to reach out and connect, this is my <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a> Profile.
   
 # 🔧 Technologies & Tools
 <p>
@@ -19,6 +19,7 @@
   
   ## Integrated Development Environment 
   ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Notepad++-informational?style=flat&logo=Notepad++&logoColor=white&color=blue)
   
 </p>
 
