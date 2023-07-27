@@ -26,11 +26,16 @@
   
   ## Programming Languages & FrameWorks
   ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
-  ![](https://img.shields.io/badge/MatLab/LabVIEW-informational?style=flat&logo=LabVIEW&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=SQL&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML&logoColor=white&color=blueviolet)
+  ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/Octave?style=flat&logo=Octave&logoColor=white&color=blueviolet)
   ![](https://img.shields.io/badge/RLanguage-informational?style=flat&logo=RLanguage&logoColor=white&color=blueviolet)
-  ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=SQL&logoColor=white&color=blueviolet)
+  
+ 
   
 </p>  
 
