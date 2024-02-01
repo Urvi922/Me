@@ -1,5 +1,6 @@
-<p align="center">
-    <a href="https://Urvi922.github.io"><img width="80%" alt="Hello, I'm Urvi" src="./assets/gh-readme-header.png" /></a>
+<p align="center" style="font-family:ComicSansMS">
+    <a href="https://Urvi922.github.io">Hello, I'm Urvi</a>
+    <br />
     I am a self-taught Full Stack Web Developer.
 </p>
 
@@ -7,7 +8,7 @@
 
 **About Me**
 
-I am currently working as Full-Stack Web Developer at Interact Health Pro
+I am currently working as Full-Stack Web Developer at Interact Health Pro.
 
 University of Waterloo Graduate with a Master in Engineering in Electrical and Computer Engineering. Throughout my academic journey, I've had the opportunity to work on various exciting projects that have honed my skills and knowledge in different areas. I have a working knowledge of SQL, Python, R Language, Octavo, JavaScript, HTML, and CSS. I have hands-on experience in developing web applications with NodeJS and ExpressJS, and I'm continuously learning and improving my expertise in this domain. As you browse through my repositories, you'll find a collection of projects showcasing my passion for building and creating new things.<br> Thank you for visiting :)
 
@@ -22,7 +23,6 @@ University of Waterloo Graduate with a Master in Engineering in Electrical and C
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvi922&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 <br />
-
 
 **Top Repositories**
 
@@ -39,13 +39,12 @@ University of Waterloo Graduate with a Master in Engineering in Electrical and C
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Web-App-with-pug&theme=buefy" />
 </a>
 
-
 <br />
 <br />
 
 **Technologies & Tools**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 <!--<br><br>
 <img align="left" padding="5%" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -54,7 +53,6 @@ University of Waterloo Graduate with a Master in Engineering in Electrical and C
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>-->
