@@ -1,10 +1,63 @@
-<div align='center'>  
-  
-   ### Hello, I am Urvi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">.
-  <img align="center" src="https://i.pinimg.com/originals/f1/52/01/f15201a799b6198018e0399ad12cf08c.gif" width="400px">
-  
-  # About Me: 👩🏻‍💻
-  ##### University of Waterloo Graduate with a Master in Engineering in Electrical and Computer Engineering. Throughout my academic journey, I've had the opportunity to work on various exciting projects that have honed my skills and knowledge in different areas. I have gained valuable experience in Data Cleaning and Data Analysis while working on projects during my graduate studies. Understanding data and extracting meaningful insights excites me, and I believe that data-driven decisions pave the way for innovative solutions. I have a working knowledge of SQL, Python, R Language, Octavo, JavaScript, HTML, and CSS. I have hands-on experience in developing web applications with NodeJS and ExpressJS, and I'm continuously learning and improving my expertise in this domain. As you browse through my repositories, you'll find a collection of projects showcasing my passion for building and creating new things.<br> Thank you for visiting. Happy coding! 😊🚀 <br> In case you want to reach out and connect, this is my <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a>Profile.  <br> Here is my <a href="https://urvi922.github.io/">Portfolio Website</a>.
+<p align="center">
+    <a href="https://Urvi922.github.io"><img width="80%" alt="Hello, I'm Urvi" src="./assets/gh-readme-header.png" /></a>
+    I am a self-taught Full Stack Web Developer.
+</p>
+
+<br />
+
+**About Me**
+
+I am currently working as Full-Stack Web Developer at Interact Health Pro
+
+University of Waterloo Graduate with a Master in Engineering in Electrical and Computer Engineering. Throughout my academic journey, I've had the opportunity to work on various exciting projects that have honed my skills and knowledge in different areas. I have a working knowledge of SQL, Python, R Language, Octavo, JavaScript, HTML, and CSS. I have hands-on experience in developing web applications with NodeJS and ExpressJS, and I'm continuously learning and improving my expertise in this domain. As you browse through my repositories, you'll find a collection of projects showcasing my passion for building and creating new things.<br> Thank you for visiting :)
+
+<br> Reach out and connect, this is my <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a> Profile. <br> Here is my <a href="https://urvi922.github.io/Urvi/">Portfolio Website</a>. 
+
+<br />
+<br />
+
+**Github Stats**
+
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Urvi922&theme=prussian&hide_border=false"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvi922&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+<br />
+
+
+**Top Repositories**
+
+<a href="https://github.com/Urvi922/Urvi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Urvi&theme=buefy" />
+</a>
+<a href="https://github.com/Urvi922/Web-App-With-Handlebars">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Web-App-With-Handlebars&theme=buefy" />
+</a>
+<a href="https://github.com/Urvi922/Urvi922">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Urvi922&theme=buefy" />
+</a>
+<a href="https://github.com/Urvi922/Web-App-with-pug">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Web-App-with-pug&theme=buefy" />
+</a>
+
+
+<br />
+<br />
+
+**Technologies & Tools**
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+<!--<br><br>
+<img align="left" padding="5%" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+<img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>-->
   
 # 🔧 Technologies & Tools
 <p>
