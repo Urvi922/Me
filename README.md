@@ -1,7 +1,5 @@
 <p>
-   <h2 align="center"><i> Hello, I'm Urvi
-    <br />
-    I am a self-taught Full Stack Web Developer.</i></h2>
+  <h2 align="center"><i>Hello, I'm Urvi<br />I am a self-taught Full Stack Web Developer</i></h2>
 </p>
 
 <br />
@@ -14,35 +12,30 @@ University of Waterloo Graduate with a Master in Engineering in Electrical and C
 
 You can reach out to me on <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a>. <br> 
 Here is a link to my <a href="https://urvi922.github.io/Urvi/">Portfolio Website</a>. 
-
-</p>
-
-<br />
 <br />
 
 ### **Github Stats**
 
 <img align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Urvi922&theme=prussian&hide_border=false"/> | <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvi922&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
+<br />
 
 ### **Top Repositories**
 
 <a href="https://github.com/Urvi922/Urvi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Urvi&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Urvi&theme=shadow_blue" />
 </a>
 <a href="https://github.com/Urvi922/Web-App-With-Handlebars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Web-App-With-Handlebars&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Web-App-With-Handlebars&theme=shadow_blue" />
 </a>
 <a href="https://github.com/Urvi922/Urvi922">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Urvi922&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Urvi922&theme=shadow_blue" />
 </a>
 <a href="https://github.com/Urvi922/Web-App-with-pug">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Web-App-with-pug&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Web-App-with-pug&theme=shadow_blue" />
 </a>
+<br />
 
-
-
-**Technologies & Tools**
+### **Technologies & Tools**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 <!--<br><br>
