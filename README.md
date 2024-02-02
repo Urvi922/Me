@@ -53,7 +53,9 @@ University of Waterloo Graduate with a Master in Engineering in Electrical and C
 <br />
 <br />
 
+</div>
 
+<!--
 ## 🎲 ***Have Fun***
 
  ```Disclaimer: This project uses a free-tier server, so after 15 minutes of inactivity, the server goes to sleep. If you don't see the tic-tac-toe board rendered, then it means the server is sleeping. Try again in 1 minute. The server should be up and running.```
@@ -94,7 +96,7 @@ University of Waterloo Graduate with a Master in Engineering in Electrical and C
 
 [activities]: https://tic-tac-toe-backend.onrender.com/renderActivities
 
-</div>
+-->
 
 <!--  Not using the below code
 # 🔧 Technologies & Tools
