@@ -44,7 +44,7 @@ University of Waterloo Graduate with a Master in Engineering in Electrical and C
 <a href="https://github.com/Urvi922/Web-App-With-Handlebars">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Web-App-With-Handlebars&theme=shadow_blue" />
 </a>
-<a href="https://github.com/Urvi922/Urvi922">
+<a href="https://github.com/Urvi922/Nodejs-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Urvi922&theme=shadow_blue" />
 </a> 
 <a href="https://github.com/Urvi922/Web-App-with-pug">
