@@ -47,8 +47,8 @@ University of Waterloo Graduate with a Master in Engineering in Electrical and C
 <a href="https://github.com/Urvi922/Nodejs-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Nodejs-Application&theme=shadow_blue" />
 </a> 
-<a href="https://github.com/Urvi922/E-commerce-Web-App-With-MongoDB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=E-commerce-Web-App-With-MongoDB&theme=shadow_blue" />
+<a href="https://github.com/Urvi922/E-commerce-Website-in-NodeJS-using-MongoDB-with-Mongoose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=E-commerce-Website-in-NodeJS-using-MongoDB-with-Mongoose&theme=shadow_blue" />
 </a>
 <br />
 <br />
