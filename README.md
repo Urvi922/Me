@@ -1,5 +1,5 @@
 <h1 align="center"><i>
-      Hello, I'm Urvi 👋 <br />Self-taught Full Stack Web Developer
+      Hello, I'm Urvi 👋 <br />Full Stack Developer
 </i>
 </h1>
 
