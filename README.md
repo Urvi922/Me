@@ -10,9 +10,9 @@
   
 ## 👩🏻‍💻 ***About Me***
 
-I am currently working as a Full-Stack Web Developer at Interact Health Pro.
+Full Stack Developer
 
-University of Waterloo Graduate with a Master in Engineering in Electrical and Computer Engineering. Throughout my academic journey, I've had the opportunity to work on various exciting projects that have honed my skills and knowledge in different areas. I have a working knowledge of SQL, Python, R Language, Octavo, JavaScript, HTML, and CSS. I have hands-on experience in developing web applications with NodeJS and ExpressJS, and I'm continuously learning and improving my expertise in this domain. As you browse through my repositories, you'll find a collection of projects showcasing my passion for building and creating new things. Thank you for visiting :)
+I love developing new features and working on different projects, which help me learn and develop new skills. I want to use my knowledge and skills to help create technologies that make life easier for people. i am constantly learning and growing. You can find the projects I have worked on in the GitHub repositories. Below are links to my LinkedIn and Portfolio. 
 
 🔗 You can reach out to me on <a href="https://www.linkedin.com/in/urvi-patel-797795119/">Linkedin</a>. <br />
 💻 Here is a link to my <a href="https://urvi922.github.io/">Portfolio Website</a>.
