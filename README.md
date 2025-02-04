@@ -39,7 +39,7 @@ University of Waterloo Graduate with a Master in Engineering in Electrical and C
 ## 📂 ***Top Repositories***
 
 <a href="https://github.com/Urvi922/Urvi922.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Portfolio&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=Urvi922.github.io&theme=shadow_blue" />
 </a>
 <a href="https://github.com/Urvi922/E-commerce-Web-App-With-MySQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Urvi922&repo=E-commerce-Web-App-With-MySQL&theme=shadow_blue" />
